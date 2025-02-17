@@ -17,3 +17,4 @@ docker run -v "$(pwd)":/usr/src -it cpp-container
 ```
 docker run -v "$(pwd)":/usr/src -it cpp-container sh
 ```
+[![Build C++](https://github.com/pvguevarra/HelloWorld/actions/workflows/actions.yml/badge.svg)](https://github.com/pvguevarra/HelloWorld/actions/workflows/actions.yml)
